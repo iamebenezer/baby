@@ -1,0 +1,2875 @@
+.elementor-14 .elementor-element.elementor-element-4a95d62>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-4a95d62>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-14 .elementor-element.elementor-element-4a95d62:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-4a95d62>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #050505;
+}
+
+.elementor-14 .elementor-element.elementor-element-4a95d62 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-4a95d62>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-f0791f9 {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-f0791f9 img {
+    width: 100%;
+}
+
+.elementor-14 .elementor-element.elementor-element-f0791f9:hover img {
+    filter: brightness( 77%) contrast( 100%) saturate( 100%) blur( 0px) hue-rotate( 0deg);
+}
+
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-menu-toggle {
+    margin-left: auto;
+}
+
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-nav-menu .elementor-item {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-nav-menu--main .elementor-item {
+    color: #FFFFFF;
+    fill: #FFFFFF;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-nav-menu--main .elementor-item:hover,
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-nav-menu--main .elementor-item.highlighted,
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-nav-menu--main .elementor-item:focus {
+    color: #949494;
+    fill: #949494;
+}
+
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-nav-menu--main .elementor-item.elementor-item-active {
+    color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-165a4d3 {
+    --e-nav-menu-horizontal-menu-item-margin: calc( 13px / 2);
+}
+
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu>li:not(:last-child) {
+    margin-bottom: 13px;
+}
+
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-nav-menu--dropdown a,
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-menu-toggle {
+    color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-nav-menu--dropdown {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-nav-menu--dropdown a:hover,
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-nav-menu--dropdown a.elementor-item-active,
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-nav-menu--dropdown a.highlighted,
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-menu-toggle:hover {
+    color: #5B5B5E;
+}
+
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-nav-menu--dropdown a:hover,
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-nav-menu--dropdown a.elementor-item-active,
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-nav-menu--dropdown a.highlighted {
+    background-color: #02010100;
+}
+
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-nav-menu--dropdown .elementor-item,
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-nav-menu--dropdown .elementor-sub-item {
+    font-family: "Grandstander", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-nav-menu--dropdown li:not(:last-child) {
+    border-style: solid;
+    border-color: #AA9D9D14;
+    border-bottom-width: 1px;
+}
+
+.elementor-14 .elementor-element.elementor-element-165a4d3 div.elementor-menu-toggle {
+    color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-165a4d3 div.elementor-menu-toggle svg {
+    fill: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-13f307c .elementor-button {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: #61CE7000;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.elementor-14 .elementor-element.elementor-element-13f307c .elementor-button:hover,
+.elementor-14 .elementor-element.elementor-element-13f307c .elementor-button:focus {
+    color: #000000;
+    background-color: #FFFFFFF7;
+}
+
+.elementor-14 .elementor-element.elementor-element-13f307c .elementor-button:hover svg,
+.elementor-14 .elementor-element.elementor-element-13f307c .elementor-button:focus svg {
+    fill: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-06edc2b>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-06edc2b:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-06edc2b>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-06edc2b {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 30px 0px 50px 0px;
+}
+
+.elementor-14 .elementor-element.elementor-element-06edc2b>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-14 .elementor-element.elementor-element-facf964.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-14 .elementor-element.elementor-element-facf964.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-14 .elementor-element.elementor-element-d42821b .elementor-heading-title {
+    color: #FC5859;
+    font-family: "Roboto", Sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-dbfc2d7 .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-dbfc2d7 {
+    --icon-box-icon-margin: 16px;
+}
+
+.elementor-14 .elementor-element.elementor-element-dbfc2d7 .elementor-icon {
+    font-size: 79px;
+}
+
+.elementor-14 .elementor-element.elementor-element-dbfc2d7 .elementor-icon-box-title {
+    color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-dbfc2d7 .elementor-icon-box-title,
+.elementor-14 .elementor-element.elementor-element-dbfc2d7 .elementor-icon-box-title a {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 72px;
+    font-weight: 600;
+}
+
+.elementor-14 .elementor-element.elementor-element-2b8e8f7 {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-4780da3 .elementor-heading-title {
+    color: #F8F6FF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-90f534c .elementor-button .elementor-align-icon-right {
+    margin-left: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-90f534c .elementor-button .elementor-align-icon-left {
+    margin-right: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-90f534c .elementor-button {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    fill: #000000;
+    color: #000000;
+    background-color: #FFFFFFF5;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.elementor-14 .elementor-element.elementor-element-90f534c .elementor-button:hover,
+.elementor-14 .elementor-element.elementor-element-90f534c .elementor-button:focus {
+    color: #000000;
+    background-color: #7F7E82;
+}
+
+.elementor-14 .elementor-element.elementor-element-90f534c .elementor-button:hover svg,
+.elementor-14 .elementor-element.elementor-element-90f534c .elementor-button:focus svg {
+    fill: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-a7017a6 .elementor-button {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: #61CE7000;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.elementor-14 .elementor-element.elementor-element-a7017a6 .elementor-button:hover,
+.elementor-14 .elementor-element.elementor-element-a7017a6 .elementor-button:focus {
+    color: #000000;
+    background-color: #FFFFFFF7;
+}
+
+.elementor-14 .elementor-element.elementor-element-a7017a6 .elementor-button:hover svg,
+.elementor-14 .elementor-element.elementor-element-a7017a6 .elementor-button:focus svg {
+    fill: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-0181e74>.elementor-element-populated {
+    margin: 0px 0px 0px 25px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 25px;
+}
+
+.elementor-14 .elementor-element.elementor-element-7a97d10 img {
+    width: 100%;
+    max-width: 100%;
+    object-position: center center;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #FFFFFF;
+    border-radius: 50px 50px 50px 50px;
+}
+
+.elementor-14 .elementor-element.elementor-element-687b3c7>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-687b3c7:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-687b3c7>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-687b3c7 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-687b3c7>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-02b3c9d img {
+    width: 100%;
+    max-width: 100%;
+    object-position: center center;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #FFFFFF;
+    border-radius: 50px 50px 50px 50px;
+}
+
+.elementor-bc-flex-widget .elementor-14 .elementor-element.elementor-element-03e7339.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-14 .elementor-element.elementor-element-03e7339.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-14 .elementor-element.elementor-element-717dca3 .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-717dca3 {
+    --icon-box-icon-margin: 16px;
+}
+
+.elementor-14 .elementor-element.elementor-element-717dca3 .elementor-icon {
+    font-size: 79px;
+}
+
+.elementor-14 .elementor-element.elementor-element-717dca3 .elementor-icon-box-title {
+    color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-717dca3 .elementor-icon-box-title,
+.elementor-14 .elementor-element.elementor-element-717dca3 .elementor-icon-box-title a {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 72px;
+    font-weight: 600;
+}
+
+.elementor-14 .elementor-element.elementor-element-c5ca656 {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-8222206 .elementor-heading-title {
+    color: #F8F6FF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-e078df0 .elementor-button .elementor-align-icon-right {
+    margin-left: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-e078df0 .elementor-button .elementor-align-icon-left {
+    margin-right: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-e078df0 .elementor-button {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    fill: #000000;
+    color: #000000;
+    background-color: #FFFFFFF5;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.elementor-14 .elementor-element.elementor-element-e078df0 .elementor-button:hover,
+.elementor-14 .elementor-element.elementor-element-e078df0 .elementor-button:focus {
+    color: #000000;
+    background-color: #7F7E82;
+}
+
+.elementor-14 .elementor-element.elementor-element-e078df0 .elementor-button:hover svg,
+.elementor-14 .elementor-element.elementor-element-e078df0 .elementor-button:focus svg {
+    fill: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-4bc7737 .elementor-button {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: #61CE7000;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.elementor-14 .elementor-element.elementor-element-4bc7737 .elementor-button:hover,
+.elementor-14 .elementor-element.elementor-element-4bc7737 .elementor-button:focus {
+    color: #000000;
+    background-color: #FFFFFFF7;
+}
+
+.elementor-14 .elementor-element.elementor-element-4bc7737 .elementor-button:hover svg,
+.elementor-14 .elementor-element.elementor-element-4bc7737 .elementor-button:focus svg {
+    fill: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-0a011f3>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-0a011f3:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-0a011f3>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-0a011f3 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 50px 0px 50px 0px;
+}
+
+.elementor-14 .elementor-element.elementor-element-0a011f3>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-5e9837f {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-5e9837f img {
+    width: 100%;
+    max-width: 100%;
+    border-style: solid;
+    border-color: #FFFFFF;
+    border-radius: 50px 50px 50px 50px;
+}
+
+.elementor-14 .elementor-element.elementor-element-8599a00>.elementor-element-populated {
+    margin: 0px 0px 0px 25px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 25px;
+}
+
+.elementor-14 .elementor-element.elementor-element-12081d3 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 63px;
+}
+
+.elementor-14 .elementor-element.elementor-element-a9c3b47 {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-db7b0fc .elementor-button .elementor-align-icon-right {
+    margin-left: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-db7b0fc .elementor-button .elementor-align-icon-left {
+    margin-right: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-db7b0fc .elementor-button {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    fill: #000000;
+    color: #000000;
+    background-color: #FFFFFFF5;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.elementor-14 .elementor-element.elementor-element-db7b0fc .elementor-button:hover,
+.elementor-14 .elementor-element.elementor-element-db7b0fc .elementor-button:focus {
+    color: #000000;
+    background-color: #7F7E82;
+}
+
+.elementor-14 .elementor-element.elementor-element-db7b0fc .elementor-button:hover svg,
+.elementor-14 .elementor-element.elementor-element-db7b0fc .elementor-button:focus svg {
+    fill: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-4fb9d54:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-4fb9d54>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-4fb9d54 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 50px 0px 50px 0px;
+}
+
+.elementor-14 .elementor-element.elementor-element-4fb9d54>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-7884587 {
+    text-align: center;
+}
+
+.elementor-14 .elementor-element.elementor-element-7884587 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 63px;
+}
+
+.elementor-14 .elementor-element.elementor-element-29fefdd .elementor-countdown-wrapper {
+    max-width: 100%;
+}
+
+.elementor-14 .elementor-element.elementor-element-29fefdd .elementor-countdown-item {
+    background-color: #FD555F;
+    border-radius: 15px 15px 15px 15px;
+}
+
+body:not(.rtl) .elementor-14 .elementor-element.elementor-element-29fefdd .elementor-countdown-item:not(:first-of-type) {
+    margin-left: calc( 10px/2);
+}
+
+body:not(.rtl) .elementor-14 .elementor-element.elementor-element-29fefdd .elementor-countdown-item:not(:last-of-type) {
+    margin-right: calc( 10px/2);
+}
+
+body.rtl .elementor-14 .elementor-element.elementor-element-29fefdd .elementor-countdown-item:not(:first-of-type) {
+    margin-right: calc( 10px/2);
+}
+
+body.rtl .elementor-14 .elementor-element.elementor-element-29fefdd .elementor-countdown-item:not(:last-of-type) {
+    margin-left: calc( 10px/2);
+}
+
+.elementor-14 .elementor-element.elementor-element-29fefdd .elementor-countdown-digits {
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-29fefdd .elementor-countdown-label {
+    font-family: "Roboto Slab", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-f15c46d>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-14 .elementor-element.elementor-element-f15c46d:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-f15c46d>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-f15c46d {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-f15c46d>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-7a53120 {
+    --e-image-carousel-slides-to-show: 6;
+}
+
+.elementor-14 .elementor-element.elementor-element-7a53120 .swiper-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.elementor-14 .elementor-element.elementor-element-3213bfa:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-3213bfa>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-3213bfa {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 50px 0px 150px 0px;
+}
+
+.elementor-14 .elementor-element.elementor-element-3213bfa>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-79c1e73>.elementor-container {
+    max-width: 759px;
+}
+
+.elementor-14 .elementor-element.elementor-element-06f8bbb>.elementor-element-populated {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #FFFFFF;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 35px 35px 35px 35px;
+}
+
+.elementor-14 .elementor-element.elementor-element-06f8bbb>.elementor-element-populated,
+.elementor-14 .elementor-element.elementor-element-06f8bbb>.elementor-element-populated>.elementor-background-overlay,
+.elementor-14 .elementor-element.elementor-element-06f8bbb>.elementor-background-slideshow {
+    border-radius: 20px 20px 20px 20px;
+}
+
+.elementor-14 .elementor-element.elementor-element-06f8bbb>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-43a6eb1 .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-43a6eb1.elementor-view-stacked .elementor-icon {
+    background-color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-43a6eb1.elementor-view-framed .elementor-icon,
+.elementor-14 .elementor-element.elementor-element-43a6eb1.elementor-view-default .elementor-icon {
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-43a6eb1 {
+    --icon-box-icon-margin: 41px;
+}
+
+.elementor-14 .elementor-element.elementor-element-43a6eb1 .elementor-icon {
+    font-size: 36px;
+}
+
+.elementor-14 .elementor-element.elementor-element-43a6eb1 .elementor-icon-box-title {
+    color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-43a6eb1 .elementor-icon-box-title,
+.elementor-14 .elementor-element.elementor-element-43a6eb1 .elementor-icon-box-title a {
+    font-family: "Roboto", Sans-serif;
+    font-weight: 600;
+}
+
+.elementor-14 .elementor-element.elementor-element-43a6eb1 .elementor-icon-box-description {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-c54aefd {
+    text-align: right;
+    width: 100%;
+    max-width: 100%;
+    top: 224px;
+}
+
+.elementor-14 .elementor-element.elementor-element-c54aefd img {
+    width: 21%;
+}
+
+body:not(.rtl) .elementor-14 .elementor-element.elementor-element-c54aefd {
+    left: 68px;
+}
+
+body.rtl .elementor-14 .elementor-element.elementor-element-c54aefd {
+    right: 68px;
+}
+
+.elementor-14 .elementor-element.elementor-element-85a7764>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-85a7764:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-85a7764>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-85a7764 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 50px 0px 0px 0px;
+}
+
+.elementor-14 .elementor-element.elementor-element-85a7764>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-ce01d8e {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-ce01d8e img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-14 .elementor-element.elementor-element-8538c07 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 63px;
+}
+
+.elementor-14 .elementor-element.elementor-element-b529268 {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-c7b83ad .elementor-button .elementor-align-icon-right {
+    margin-left: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-c7b83ad .elementor-button .elementor-align-icon-left {
+    margin-right: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-c7b83ad .elementor-button {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    fill: #000000;
+    color: #000000;
+    background-color: #FFFFFFF5;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.elementor-14 .elementor-element.elementor-element-c7b83ad .elementor-button:hover,
+.elementor-14 .elementor-element.elementor-element-c7b83ad .elementor-button:focus {
+    color: #000000;
+    background-color: #7F7E82;
+}
+
+.elementor-14 .elementor-element.elementor-element-c7b83ad .elementor-button:hover svg,
+.elementor-14 .elementor-element.elementor-element-c7b83ad .elementor-button:focus svg {
+    fill: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-12d4257>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-12d4257:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-12d4257>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-12d4257 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-12d4257>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-66614ee .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 63px;
+}
+
+.elementor-14 .elementor-element.elementor-element-64330f3 {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-7acb751 .elementor-button .elementor-align-icon-right {
+    margin-left: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-7acb751 .elementor-button .elementor-align-icon-left {
+    margin-right: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-7acb751 .elementor-button {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    fill: #000000;
+    color: #000000;
+    background-color: #FFFFFFF5;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.elementor-14 .elementor-element.elementor-element-7acb751 .elementor-button:hover,
+.elementor-14 .elementor-element.elementor-element-7acb751 .elementor-button:focus {
+    color: #000000;
+    background-color: #7F7E82;
+}
+
+.elementor-14 .elementor-element.elementor-element-7acb751 .elementor-button:hover svg,
+.elementor-14 .elementor-element.elementor-element-7acb751 .elementor-button:focus svg {
+    fill: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-8a06071 {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-8a06071 img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-14 .elementor-element.elementor-element-ce2f681>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-ce2f681:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-ce2f681>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-ce2f681 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 50px 0px 50px 0px;
+}
+
+.elementor-14 .elementor-element.elementor-element-ce2f681>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-5ce995b {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-5ce995b img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-14 .elementor-element.elementor-element-57225ae .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 63px;
+}
+
+.elementor-14 .elementor-element.elementor-element-e9d66aa {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-6e8c2fa .elementor-button .elementor-align-icon-right {
+    margin-left: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-6e8c2fa .elementor-button .elementor-align-icon-left {
+    margin-right: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-6e8c2fa .elementor-button {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    fill: #000000;
+    color: #000000;
+    background-color: #FFFFFFF5;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.elementor-14 .elementor-element.elementor-element-6e8c2fa .elementor-button:hover,
+.elementor-14 .elementor-element.elementor-element-6e8c2fa .elementor-button:focus {
+    color: #000000;
+    background-color: #7F7E82;
+}
+
+.elementor-14 .elementor-element.elementor-element-6e8c2fa .elementor-button:hover svg,
+.elementor-14 .elementor-element.elementor-element-6e8c2fa .elementor-button:focus svg {
+    fill: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-fcf5bb2>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-fcf5bb2:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-fcf5bb2>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-fcf5bb2 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-14 .elementor-element.elementor-element-fcf5bb2>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-cefd3c5 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 63px;
+}
+
+.elementor-14 .elementor-element.elementor-element-4f0d133 {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-529d1ae .elementor-button .elementor-align-icon-right {
+    margin-left: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-529d1ae .elementor-button .elementor-align-icon-left {
+    margin-right: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-529d1ae .elementor-button {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    fill: #000000;
+    color: #000000;
+    background-color: #FFFFFFF5;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.elementor-14 .elementor-element.elementor-element-529d1ae .elementor-button:hover,
+.elementor-14 .elementor-element.elementor-element-529d1ae .elementor-button:focus {
+    color: #000000;
+    background-color: #7F7E82;
+}
+
+.elementor-14 .elementor-element.elementor-element-529d1ae .elementor-button:hover svg,
+.elementor-14 .elementor-element.elementor-element-529d1ae .elementor-button:focus svg {
+    fill: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-5d7366e {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-5d7366e img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-14 .elementor-element.elementor-element-edb5346>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-edb5346:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-edb5346>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-edb5346 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 50px 0px 50px 0px;
+}
+
+.elementor-14 .elementor-element.elementor-element-edb5346>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-8a1ce5b {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-8a1ce5b img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-14 .elementor-element.elementor-element-e3829c3 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 63px;
+}
+
+.elementor-14 .elementor-element.elementor-element-11ec5bc {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-1cef6fd .elementor-button .elementor-align-icon-right {
+    margin-left: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-1cef6fd .elementor-button .elementor-align-icon-left {
+    margin-right: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-1cef6fd .elementor-button {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    fill: #000000;
+    color: #000000;
+    background-color: #FFFFFFF5;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.elementor-14 .elementor-element.elementor-element-1cef6fd .elementor-button:hover,
+.elementor-14 .elementor-element.elementor-element-1cef6fd .elementor-button:focus {
+    color: #000000;
+    background-color: #7F7E82;
+}
+
+.elementor-14 .elementor-element.elementor-element-1cef6fd .elementor-button:hover svg,
+.elementor-14 .elementor-element.elementor-element-1cef6fd .elementor-button:focus svg {
+    fill: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-0443102>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-0443102:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-0443102>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-0443102 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-0443102>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-698eee5>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-ee296b4 .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-ee296b4 {
+    --icon-box-icon-margin: 16px;
+}
+
+.elementor-14 .elementor-element.elementor-element-ee296b4 .elementor-icon {
+    font-size: 79px;
+}
+
+.elementor-14 .elementor-element.elementor-element-ee296b4 .elementor-icon-box-title {
+    color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-ee296b4 .elementor-icon-box-title,
+.elementor-14 .elementor-element.elementor-element-ee296b4 .elementor-icon-box-title a {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 72px;
+    font-weight: 600;
+}
+
+.elementor-14 .elementor-element.elementor-element-63b38e1>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-63b38e1 {
+    padding: 0px 0px 100px 0px;
+}
+
+.elementor-14 .elementor-element.elementor-element-cb36f08>.elementor-element-populated {
+    border-style: solid;
+    border-width: 4px 4px 4px 4px;
+    border-color: #FFFFFF;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 15px 15px 15px 15px;
+    --e-column-margin-right: 15px;
+    --e-column-margin-left: 15px;
+    padding: 35px 35px 35px 35px;
+}
+
+.elementor-14 .elementor-element.elementor-element-cb36f08>.elementor-element-populated,
+.elementor-14 .elementor-element.elementor-element-cb36f08>.elementor-element-populated>.elementor-background-overlay,
+.elementor-14 .elementor-element.elementor-element-cb36f08>.elementor-background-slideshow {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-14 .elementor-element.elementor-element-cb36f08>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-0e3b773 .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-0e3b773.elementor-view-stacked .elementor-icon {
+    background-color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-0e3b773.elementor-view-framed .elementor-icon,
+.elementor-14 .elementor-element.elementor-element-0e3b773.elementor-view-default .elementor-icon {
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-0e3b773 {
+    --icon-box-icon-margin: 15px;
+}
+
+.elementor-14 .elementor-element.elementor-element-0e3b773 .elementor-icon {
+    font-size: 60px;
+}
+
+.elementor-14 .elementor-element.elementor-element-0e3b773 .elementor-icon-box-title {
+    margin-bottom: 9px;
+    color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-0e3b773 .elementor-icon-box-title,
+.elementor-14 .elementor-element.elementor-element-0e3b773 .elementor-icon-box-title a {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.elementor-14 .elementor-element.elementor-element-0e3b773 .elementor-icon-box-description {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-a01b0f1 .elementor-button .elementor-align-icon-right {
+    margin-left: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-a01b0f1 .elementor-button .elementor-align-icon-left {
+    margin-right: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-a01b0f1 .elementor-button {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #FFFFFF00;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.elementor-14 .elementor-element.elementor-element-a01b0f1 .elementor-button:hover,
+.elementor-14 .elementor-element.elementor-element-a01b0f1 .elementor-button:focus {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-a01b0f1 .elementor-button:hover svg,
+.elementor-14 .elementor-element.elementor-element-a01b0f1 .elementor-button:focus svg {
+    fill: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-28d4faa>.elementor-element-populated {
+    border-style: solid;
+    border-width: 4px 4px 4px 4px;
+    border-color: #FFFFFF;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 15px 15px 15px 15px;
+    --e-column-margin-right: 15px;
+    --e-column-margin-left: 15px;
+    padding: 35px 35px 35px 35px;
+}
+
+.elementor-14 .elementor-element.elementor-element-28d4faa>.elementor-element-populated,
+.elementor-14 .elementor-element.elementor-element-28d4faa>.elementor-element-populated>.elementor-background-overlay,
+.elementor-14 .elementor-element.elementor-element-28d4faa>.elementor-background-slideshow {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-14 .elementor-element.elementor-element-28d4faa>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-f73c478 .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-f73c478.elementor-view-stacked .elementor-icon {
+    background-color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-f73c478.elementor-view-framed .elementor-icon,
+.elementor-14 .elementor-element.elementor-element-f73c478.elementor-view-default .elementor-icon {
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-f73c478 {
+    --icon-box-icon-margin: 15px;
+}
+
+.elementor-14 .elementor-element.elementor-element-f73c478 .elementor-icon {
+    font-size: 60px;
+}
+
+.elementor-14 .elementor-element.elementor-element-f73c478 .elementor-icon-box-title {
+    margin-bottom: 9px;
+    color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-f73c478 .elementor-icon-box-title,
+.elementor-14 .elementor-element.elementor-element-f73c478 .elementor-icon-box-title a {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.elementor-14 .elementor-element.elementor-element-f73c478 .elementor-icon-box-description {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-b5d81cf {
+    --spacer-size: 113px;
+}
+
+.elementor-14 .elementor-element.elementor-element-991ff28 .elementor-button .elementor-align-icon-right {
+    margin-left: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-991ff28 .elementor-button .elementor-align-icon-left {
+    margin-right: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-991ff28 .elementor-button {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #FFFFFF00;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.elementor-14 .elementor-element.elementor-element-991ff28 .elementor-button:hover,
+.elementor-14 .elementor-element.elementor-element-991ff28 .elementor-button:focus {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-991ff28 .elementor-button:hover svg,
+.elementor-14 .elementor-element.elementor-element-991ff28 .elementor-button:focus svg {
+    fill: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-92a89ae>.elementor-element-populated {
+    border-style: solid;
+    border-width: 4px 4px 4px 4px;
+    border-color: #FFFFFF;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 15px 15px 15px 15px;
+    --e-column-margin-right: 15px;
+    --e-column-margin-left: 15px;
+    padding: 35px 35px 35px 35px;
+}
+
+.elementor-14 .elementor-element.elementor-element-92a89ae>.elementor-element-populated,
+.elementor-14 .elementor-element.elementor-element-92a89ae>.elementor-element-populated>.elementor-background-overlay,
+.elementor-14 .elementor-element.elementor-element-92a89ae>.elementor-background-slideshow {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-14 .elementor-element.elementor-element-92a89ae>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-14fbefb .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-14fbefb {
+    --icon-box-icon-margin: 15px;
+}
+
+.elementor-14 .elementor-element.elementor-element-14fbefb .elementor-icon {
+    font-size: 60px;
+}
+
+.elementor-14 .elementor-element.elementor-element-14fbefb .elementor-icon-box-title {
+    margin-bottom: 9px;
+    color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-14fbefb .elementor-icon-box-title,
+.elementor-14 .elementor-element.elementor-element-14fbefb .elementor-icon-box-title a {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.elementor-14 .elementor-element.elementor-element-14fbefb .elementor-icon-box-description {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-83bb985 {
+    --spacer-size: 112px;
+}
+
+.elementor-14 .elementor-element.elementor-element-54a56fa .elementor-button .elementor-align-icon-right {
+    margin-left: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-54a56fa .elementor-button .elementor-align-icon-left {
+    margin-right: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-54a56fa .elementor-button {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #FFFFFF00;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.elementor-14 .elementor-element.elementor-element-54a56fa .elementor-button:hover,
+.elementor-14 .elementor-element.elementor-element-54a56fa .elementor-button:focus {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-54a56fa .elementor-button:hover svg,
+.elementor-14 .elementor-element.elementor-element-54a56fa .elementor-button:focus svg {
+    fill: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-9163810>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-9163810:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-9163810>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-9163810 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-9163810>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-343be2d>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-a9693fb .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-a9693fb {
+    --icon-box-icon-margin: 16px;
+}
+
+.elementor-14 .elementor-element.elementor-element-a9693fb .elementor-icon {
+    font-size: 79px;
+}
+
+.elementor-14 .elementor-element.elementor-element-a9693fb .elementor-icon-box-title {
+    color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-a9693fb .elementor-icon-box-title,
+.elementor-14 .elementor-element.elementor-element-a9693fb .elementor-icon-box-title a {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 72px;
+    font-weight: 600;
+}
+
+.elementor-14 .elementor-element.elementor-element-dd6162e>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-dd6162e:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-dd6162e>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-dd6162e {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-dd6162e>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-35d5a94>.elementor-element-populated {
+    border-style: solid;
+    border-width: 4px 4px 4px 4px;
+    border-color: #FFFFFF;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 15px 15px 15px 15px;
+    --e-column-margin-right: 15px;
+    --e-column-margin-left: 15px;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-14 .elementor-element.elementor-element-35d5a94>.elementor-element-populated,
+.elementor-14 .elementor-element.elementor-element-35d5a94>.elementor-element-populated>.elementor-background-overlay,
+.elementor-14 .elementor-element.elementor-element-35d5a94>.elementor-background-slideshow {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-14 .elementor-element.elementor-element-35d5a94>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-acda068>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-14 .elementor-element.elementor-element-c72fc40 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.elementor-14 .elementor-element.elementor-element-91eeae6 {
+    text-align: right;
+}
+
+.elementor-14 .elementor-element.elementor-element-91eeae6 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.elementor-14 .elementor-element.elementor-element-bd75098>.elementor-element-populated {
+    border-style: solid;
+    border-width: 4px 4px 4px 4px;
+    border-color: #FFFFFF;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 15px 15px 15px 15px;
+    --e-column-margin-right: 15px;
+    --e-column-margin-left: 15px;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-14 .elementor-element.elementor-element-bd75098>.elementor-element-populated,
+.elementor-14 .elementor-element.elementor-element-bd75098>.elementor-element-populated>.elementor-background-overlay,
+.elementor-14 .elementor-element.elementor-element-bd75098>.elementor-background-slideshow {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-14 .elementor-element.elementor-element-bd75098>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-027abe4>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-14 .elementor-element.elementor-element-585abfb .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.elementor-14 .elementor-element.elementor-element-fe8ba7f {
+    text-align: right;
+}
+
+.elementor-14 .elementor-element.elementor-element-fe8ba7f .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.elementor-14 .elementor-element.elementor-element-2131fe9>.elementor-element-populated {
+    border-style: solid;
+    border-width: 4px 4px 4px 4px;
+    border-color: #FFFFFF;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 15px 15px 15px 15px;
+    --e-column-margin-right: 15px;
+    --e-column-margin-left: 15px;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-14 .elementor-element.elementor-element-2131fe9>.elementor-element-populated,
+.elementor-14 .elementor-element.elementor-element-2131fe9>.elementor-element-populated>.elementor-background-overlay,
+.elementor-14 .elementor-element.elementor-element-2131fe9>.elementor-background-slideshow {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-14 .elementor-element.elementor-element-2131fe9>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-02c4956>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-14 .elementor-element.elementor-element-016b732 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.elementor-14 .elementor-element.elementor-element-9bcdd99 {
+    text-align: right;
+}
+
+.elementor-14 .elementor-element.elementor-element-9bcdd99 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.elementor-14 .elementor-element.elementor-element-8dccc37>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-8dccc37:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-8dccc37>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-8dccc37 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-8dccc37>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-5961370>.elementor-element-populated {
+    border-style: solid;
+    border-width: 4px 4px 4px 4px;
+    border-color: #FFFFFF;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 15px 15px 15px 15px;
+    --e-column-margin-right: 15px;
+    --e-column-margin-left: 15px;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-14 .elementor-element.elementor-element-5961370>.elementor-element-populated,
+.elementor-14 .elementor-element.elementor-element-5961370>.elementor-element-populated>.elementor-background-overlay,
+.elementor-14 .elementor-element.elementor-element-5961370>.elementor-background-slideshow {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-14 .elementor-element.elementor-element-5961370>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-eaf20a7>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-14 .elementor-element.elementor-element-23aca45 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.elementor-14 .elementor-element.elementor-element-ec1b6d6 .elementor-icon-box-wrapper {
+    text-align: right;
+}
+
+.elementor-14 .elementor-element.elementor-element-ec1b6d6 .elementor-icon-box-title {
+    color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-ec1b6d6 .elementor-icon-box-title,
+.elementor-14 .elementor-element.elementor-element-ec1b6d6 .elementor-icon-box-title a {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-02e4a44>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-02e4a44:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-02e4a44>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-02e4a44 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-02e4a44>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-0897172>.elementor-element-populated {
+    border-style: solid;
+    border-width: 4px 4px 4px 4px;
+    border-color: #FFFFFF;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 15px 15px 15px 15px;
+    --e-column-margin-right: 15px;
+    --e-column-margin-left: 15px;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-14 .elementor-element.elementor-element-0897172>.elementor-element-populated,
+.elementor-14 .elementor-element.elementor-element-0897172>.elementor-element-populated>.elementor-background-overlay,
+.elementor-14 .elementor-element.elementor-element-0897172>.elementor-background-slideshow {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-14 .elementor-element.elementor-element-0897172>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-4a38d1c>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-14 .elementor-element.elementor-element-615ee54 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.elementor-14 .elementor-element.elementor-element-7c149b4 {
+    text-align: right;
+}
+
+.elementor-14 .elementor-element.elementor-element-7c149b4 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.elementor-14 .elementor-element.elementor-element-88269ab>.elementor-element-populated {
+    border-style: solid;
+    border-width: 4px 4px 4px 4px;
+    border-color: #FFFFFF;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 15px 15px 15px 15px;
+    --e-column-margin-right: 15px;
+    --e-column-margin-left: 15px;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-14 .elementor-element.elementor-element-88269ab>.elementor-element-populated,
+.elementor-14 .elementor-element.elementor-element-88269ab>.elementor-element-populated>.elementor-background-overlay,
+.elementor-14 .elementor-element.elementor-element-88269ab>.elementor-background-slideshow {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-14 .elementor-element.elementor-element-88269ab>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-6dbdbf5>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-14 .elementor-element.elementor-element-2582d38 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.elementor-14 .elementor-element.elementor-element-ec187f7 {
+    text-align: right;
+}
+
+.elementor-14 .elementor-element.elementor-element-ec187f7 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.elementor-14 .elementor-element.elementor-element-d4ffa02>.elementor-element-populated {
+    border-style: solid;
+    border-width: 4px 4px 4px 4px;
+    border-color: #FFFFFF;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 15px 15px 15px 15px;
+    --e-column-margin-right: 15px;
+    --e-column-margin-left: 15px;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-14 .elementor-element.elementor-element-d4ffa02>.elementor-element-populated,
+.elementor-14 .elementor-element.elementor-element-d4ffa02>.elementor-element-populated>.elementor-background-overlay,
+.elementor-14 .elementor-element.elementor-element-d4ffa02>.elementor-background-slideshow {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-14 .elementor-element.elementor-element-d4ffa02>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-853e88f>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-14 .elementor-element.elementor-element-4dd70d1 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.elementor-14 .elementor-element.elementor-element-39fa2fb {
+    text-align: right;
+}
+
+.elementor-14 .elementor-element.elementor-element-39fa2fb .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.elementor-14 .elementor-element.elementor-element-411d1f0>.elementor-element-populated {
+    border-style: solid;
+    border-width: 4px 4px 4px 4px;
+    border-color: #FFFFFF;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 15px 15px 15px 15px;
+    --e-column-margin-right: 15px;
+    --e-column-margin-left: 15px;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-14 .elementor-element.elementor-element-411d1f0>.elementor-element-populated,
+.elementor-14 .elementor-element.elementor-element-411d1f0>.elementor-element-populated>.elementor-background-overlay,
+.elementor-14 .elementor-element.elementor-element-411d1f0>.elementor-background-slideshow {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-14 .elementor-element.elementor-element-411d1f0>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-4b1c78e>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-14 .elementor-element.elementor-element-4861b02 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.elementor-14 .elementor-element.elementor-element-d1ad782 {
+    text-align: right;
+}
+
+.elementor-14 .elementor-element.elementor-element-d1ad782 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.elementor-14 .elementor-element.elementor-element-5b2fa36>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-5b2fa36:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-5b2fa36>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-5b2fa36 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-5b2fa36>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-5f67dba>.elementor-element-populated {
+    border-style: solid;
+    border-width: 4px 4px 4px 4px;
+    border-color: #FFFFFF;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 15px 15px 15px 15px;
+    --e-column-margin-right: 15px;
+    --e-column-margin-left: 15px;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-14 .elementor-element.elementor-element-5f67dba>.elementor-element-populated,
+.elementor-14 .elementor-element.elementor-element-5f67dba>.elementor-element-populated>.elementor-background-overlay,
+.elementor-14 .elementor-element.elementor-element-5f67dba>.elementor-background-slideshow {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-14 .elementor-element.elementor-element-5f67dba>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-f9458df>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-14 .elementor-element.elementor-element-98b9ca6 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.elementor-14 .elementor-element.elementor-element-2d4816d .elementor-button .elementor-align-icon-right {
+    margin-left: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-2d4816d .elementor-button .elementor-align-icon-left {
+    margin-right: 11px;
+}
+
+.elementor-14 .elementor-element.elementor-element-2d4816d .elementor-button {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    fill: #000000;
+    color: #000000;
+    background-color: #FFFFFFF5;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.elementor-14 .elementor-element.elementor-element-2d4816d .elementor-button:hover,
+.elementor-14 .elementor-element.elementor-element-2d4816d .elementor-button:focus {
+    color: #000000;
+    background-color: #7F7E82;
+}
+
+.elementor-14 .elementor-element.elementor-element-2d4816d .elementor-button:hover svg,
+.elementor-14 .elementor-element.elementor-element-2d4816d .elementor-button:focus svg {
+    fill: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-3e24564>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-3e24564:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-3e24564>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-3e24564 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 150px 0px 150px 0px;
+}
+
+.elementor-14 .elementor-element.elementor-element-3e24564>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-27ccd55 {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-27ccd55 img {
+    width: 100%;
+    max-width: 100%;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #FFFFFF;
+    border-radius: 50px 50px 50px 50px;
+}
+
+.elementor-14 .elementor-element.elementor-element-aba5a43>.elementor-element-populated {
+    margin: 0px 0px 0px 25px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 25px;
+}
+
+.elementor-14 .elementor-element.elementor-element-76b425c .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 63px;
+}
+
+.elementor-14 .elementor-element.elementor-element-328efb1 {
+    --grid-template-columns: repeat(0, auto);
+    --icon-size: 50px;
+    --grid-column-gap: 5px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-14 .elementor-element.elementor-element-328efb1 .elementor-widget-container {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-328efb1 .elementor-social-icon {
+    background-color: #02010100;
+    --icon-padding: 0.3em;
+}
+
+.elementor-14 .elementor-element.elementor-element-e4b6219>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-e4b6219:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-e4b6219>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-e4b6219 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-e4b6219>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-a2b129a>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-f62db04 .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-f62db04 .elementor-icon-box-title {
+    color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-f62db04 .elementor-icon-box-title,
+.elementor-14 .elementor-element.elementor-element-f62db04 .elementor-icon-box-title a {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 72px;
+    font-weight: 600;
+}
+
+.elementor-14 .elementor-element.elementor-element-ab1da58>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-ab1da58 {
+    padding: 40px 0px 50px 0px;
+}
+
+.elementor-14 .elementor-element.elementor-element-1d3c66f .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-1d3c66f.elementor-view-stacked .elementor-icon {
+    background-color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-1d3c66f.elementor-view-framed .elementor-icon,
+.elementor-14 .elementor-element.elementor-element-1d3c66f.elementor-view-default .elementor-icon {
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-1d3c66f {
+    --icon-box-icon-margin: 15px;
+}
+
+.elementor-14 .elementor-element.elementor-element-1d3c66f .elementor-icon {
+    font-size: 135px;
+}
+
+.elementor-14 .elementor-element.elementor-element-1d3c66f .elementor-icon-box-title {
+    margin-bottom: 9px;
+    color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-1d3c66f .elementor-icon-box-title,
+.elementor-14 .elementor-element.elementor-element-1d3c66f .elementor-icon-box-title a {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.elementor-14 .elementor-element.elementor-element-1d3c66f .elementor-icon-box-description {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-f129ac9 {
+    --spacer-size: 57px;
+}
+
+.elementor-14 .elementor-element.elementor-element-92e6f65 .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-92e6f65.elementor-view-stacked .elementor-icon {
+    background-color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-92e6f65.elementor-view-framed .elementor-icon,
+.elementor-14 .elementor-element.elementor-element-92e6f65.elementor-view-default .elementor-icon {
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-92e6f65 {
+    --icon-box-icon-margin: 0px;
+}
+
+.elementor-14 .elementor-element.elementor-element-92e6f65 .elementor-icon {
+    font-size: 160px;
+}
+
+.elementor-14 .elementor-element.elementor-element-92e6f65 .elementor-icon-box-title {
+    margin-bottom: 9px;
+    color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-92e6f65 .elementor-icon-box-title,
+.elementor-14 .elementor-element.elementor-element-92e6f65 .elementor-icon-box-title a {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.elementor-14 .elementor-element.elementor-element-92e6f65 .elementor-icon-box-description {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-86e80fb {
+    --spacer-size: 145px;
+}
+
+.elementor-14 .elementor-element.elementor-element-402c946 .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-402c946.elementor-view-stacked .elementor-icon {
+    background-color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-402c946.elementor-view-framed .elementor-icon,
+.elementor-14 .elementor-element.elementor-element-402c946.elementor-view-default .elementor-icon {
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-402c946 {
+    --icon-box-icon-margin: 15px;
+}
+
+.elementor-14 .elementor-element.elementor-element-402c946 .elementor-icon {
+    font-size: 160px;
+}
+
+.elementor-14 .elementor-element.elementor-element-402c946 .elementor-icon-box-title {
+    margin-bottom: 9px;
+    color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-402c946 .elementor-icon-box-title,
+.elementor-14 .elementor-element.elementor-element-402c946 .elementor-icon-box-title a {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.elementor-14 .elementor-element.elementor-element-402c946 .elementor-icon-box-description {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-626d250 .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-626d250.elementor-view-stacked .elementor-icon {
+    background-color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-626d250.elementor-view-framed .elementor-icon,
+.elementor-14 .elementor-element.elementor-element-626d250.elementor-view-default .elementor-icon {
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-626d250 {
+    --icon-box-icon-margin: 15px;
+}
+
+.elementor-14 .elementor-element.elementor-element-626d250 .elementor-icon {
+    font-size: 160px;
+}
+
+.elementor-14 .elementor-element.elementor-element-626d250 .elementor-icon-box-title {
+    margin-bottom: 9px;
+    color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-626d250 .elementor-icon-box-title,
+.elementor-14 .elementor-element.elementor-element-626d250 .elementor-icon-box-title a {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.elementor-14 .elementor-element.elementor-element-626d250 .elementor-icon-box-description {
+    color: #FFFFFF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-082035d>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-082035d:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-082035d>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-082035d {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 100px 0px 150px 0px;
+}
+
+.elementor-14 .elementor-element.elementor-element-082035d>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-c495872>.elementor-container {
+    max-width: 1250px;
+}
+
+.elementor-14 .elementor-element.elementor-element-c495872 {
+    padding: 0px 0px 50px 0px;
+}
+
+.elementor-14 .elementor-element.elementor-element-629066a .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-629066a {
+    --icon-box-icon-margin: 16px;
+}
+
+.elementor-14 .elementor-element.elementor-element-629066a .elementor-icon {
+    font-size: 79px;
+}
+
+.elementor-14 .elementor-element.elementor-element-629066a .elementor-icon-box-title {
+    color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-629066a .elementor-icon-box-title,
+.elementor-14 .elementor-element.elementor-element-629066a .elementor-icon-box-title a {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 72px;
+    font-weight: 600;
+}
+
+.elementor-14 .elementor-element.elementor-element-629066a .elementor-icon-box-description {
+    font-family: "Roboto", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-14 .elementor-element.elementor-element-81579dd .elementskit-accordion .elementskit-card-header>.elementskit-btn-link {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    color: #FFFFFF;
+    background-color: #02010100;
+    padding: 25px 25px 25px 25px;
+}
+
+.elementor-14 .elementor-element.elementor-element-81579dd .elementskit-accordion .elementskit-card .elementskit-card-header>.elementskit-btn-link[aria-expanded="true"] {
+    color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-81579dd .elementskit-accordion.curve-shape .elementskit-card-header>.elementskit-btn-link[aria-expanded=true] {
+    color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-81579dd .elementskit-accordion.accoedion-primary .elementskit-card .elementskit-card-header>.elementskit-btn-link[aria-expanded="true"],
+.elementor-14 .elementor-element.elementor-element-81579dd .elementskit-accordion .elementskit-card-header>.elementskit-btn-link[aria-expanded=true],
+.elementor-14 .elementor-element.elementor-element-81579dd .elementskit-accordion.floating-style .elementskit-card .elementskit-btn-link[aria-expanded="true"] {
+    background-color: #02010100;
+}
+
+.elementor-14 .elementor-element.elementor-element-81579dd .elementskit-accordion .elementskit-card:not(:last-child) {
+    margin-bottom: 36px;
+}
+
+.elementor-14 .elementor-element.elementor-element-81579dd .elementskit-accordion .elementskit-card-body p {
+    color: #FFFFFF;
+}
+
+.elementor-14 .elementor-element.elementor-element-81579dd .elementskit-accordion .elementskit-card-body {
+    color: #FFFFFF;
+    padding: 27px 27px 27px 27px;
+}
+
+.elementor-14 .elementor-element.elementor-element-81579dd .elementskit-accordion .elementskit-card-body p,
+.elementor-14 .elementor-element.elementor-element-81579dd .elementskit-accordion .elementskit-card-body {
+    font-family: "Grandstander", Sans-serif;
+    font-size: 20px;
+}
+
+.elementor-14 .elementor-element.elementor-element-81579dd .elementskit-accordion>.elementskit-card.active {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #FFFFFF;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-14 .elementor-element.elementor-element-81579dd .elementskit-accordion .elementskit-card-header>.elementskit-btn-link {
+    border-radius: 15px 15px 0px 0px;
+}
+
+.elementor-14 .elementor-element.elementor-element-81579dd .elementskit-accordion>.elementskit-card {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #FFFFFF;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-14 .elementor-element.elementor-element-81579dd .elementskit-accordion .elementskit-card-header>.elementskit-btn-link.collapsed {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-14 .elementor-element.elementor-element-81579dd .elementskit-accordion .elementskit-card-header .elementskit-btn-link .icon-open {
+    font-size: 20px;
+}
+
+.elementor-14 .elementor-element.elementor-element-81579dd .elementskit-accordion .elementskit-card-header .elementskit-btn-link svg {
+    max-width: 20px;
+    height: auto;
+}
+
+.elementor-14 .elementor-element.elementor-element-81579dd .elementskit-accordion .elementskit-card .elementskit-card-header .elementskit-btn-link .icon-closed {
+    font-size: 20px;
+}
+
+.elementor-14 .elementor-element.elementor-element-81579dd .elementskit-accordion .elementskit-card .elementskit-card-header .elementskit-btn-link svg {
+    max-width: 20px;
+    height: auto;
+}
+
+.elementor-14 .elementor-element.elementor-element-3d465c5:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-3d465c5>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-3d465c5 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-3d465c5>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-40c9962>.elementor-element-populated {
+    border-style: solid;
+    border-width: 3px 0px 0px 0px;
+    border-color: #FFFFFF;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 40px 40px 40px 40px;
+}
+
+.elementor-14 .elementor-element.elementor-element-40c9962>.elementor-element-populated,
+.elementor-14 .elementor-element.elementor-element-40c9962>.elementor-element-populated>.elementor-background-overlay,
+.elementor-14 .elementor-element.elementor-element-40c9962>.elementor-background-slideshow {
+    border-radius: 50px 50px 0px 0px;
+}
+
+.elementor-14 .elementor-element.elementor-element-40c9962>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-66891b9>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-14 .elementor-element.elementor-element-66891b9 {
+    z-index: 5;
+}
+
+.elementor-14 .elementor-element.elementor-element-a50c974 {
+    text-align: left;
+}
+
+.elementor-14 .elementor-element.elementor-element-a50c974 img {
+    width: 90%;
+}
+
+.elementor-14 .elementor-element.elementor-element-51abd3b {
+    --grid-template-columns: repeat(0, auto);
+    --icon-size: 25px;
+    --grid-column-gap: 5px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-14 .elementor-element.elementor-element-51abd3b .elementor-widget-container {
+    text-align: center;
+}
+
+.elementor-14 .elementor-element.elementor-element-51abd3b .elementor-social-icon {
+    background-color: #02010100;
+}
+
+.elementor-14 .elementor-element.elementor-element-9c295fc .elementor-heading-title {
+    color: #F8F6FF;
+    font-family: "Grandstander", Sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.elementor-14 .elementor-element.elementor-element-009287c:not(.elementor-motion-effects-element-type-background),
+.elementor-14 .elementor-element.elementor-element-009287c>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-14 .elementor-element.elementor-element-009287c {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-14 .elementor-element.elementor-element-009287c>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+@media(max-width:767px) {
+    .elementor-14 .elementor-element.elementor-element-bfed1cf {
+        width: 60%;
+    }
+    .elementor-14 .elementor-element.elementor-element-e5d398c {
+        width: 40%;
+    }
+    .elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-nav-menu--dropdown .elementor-item,
+    .elementor-14 .elementor-element.elementor-element-165a4d3 .elementor-nav-menu--dropdown .elementor-sub-item {
+        font-size: 20px;
+    }
+    .elementor-14 .elementor-element.elementor-element-06edc2b {
+        padding: 50px 0px 50px 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-dbfc2d7 .elementor-icon-box-wrapper {
+        text-align: left;
+    }
+    .elementor-14 .elementor-element.elementor-element-dbfc2d7 .elementor-icon {
+        font-size: 49px;
+    }
+    .elementor-14 .elementor-element.elementor-element-dbfc2d7 .elementor-icon-box-title,
+    .elementor-14 .elementor-element.elementor-element-dbfc2d7 .elementor-icon-box-title a {
+        font-size: 36px;
+    }
+    .elementor-14 .elementor-element.elementor-element-687b3c7 {
+        padding: 50px 0px 50px 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-717dca3 .elementor-icon-box-wrapper {
+        text-align: left;
+    }
+    .elementor-14 .elementor-element.elementor-element-717dca3 {
+        --icon-box-icon-margin: 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-717dca3 .elementor-icon {
+        font-size: 49px;
+    }
+    .elementor-14 .elementor-element.elementor-element-717dca3 .elementor-icon-box-title {
+        margin-bottom: 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-717dca3 .elementor-icon-box-title,
+    .elementor-14 .elementor-element.elementor-element-717dca3 .elementor-icon-box-title a {
+        font-size: 43px;
+    }
+    .elementor-14 .elementor-element.elementor-element-8222206 .elementor-heading-title {
+        font-size: 16px;
+    }
+    .elementor-14 .elementor-element.elementor-element-8599a00>.elementor-element-populated {
+        margin: 0px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-12081d3 .elementor-heading-title {
+        font-size: 40px;
+        line-height: 1.2em;
+    }
+    .elementor-14 .elementor-element.elementor-element-a9c3b47 {
+        font-size: 14px;
+    }
+    .elementor-14 .elementor-element.elementor-element-7884587 .elementor-heading-title {
+        font-size: 40px;
+        line-height: 1.2em;
+    }
+    .elementor-14 .elementor-element.elementor-element-29fefdd .elementor-countdown-digits {
+        font-size: 32px;
+    }
+    .elementor-14 .elementor-element.elementor-element-29fefdd .elementor-countdown-label {
+        font-size: 12px;
+    }
+    .elementor-14 .elementor-element.elementor-element-7a53120 {
+        --e-image-carousel-slides-to-show: 2;
+    }
+    .elementor-14 .elementor-element.elementor-element-06f8bbb>.elementor-element-populated {
+        padding: 15px 15px 15px 15px;
+    }
+    .elementor-14 .elementor-element.elementor-element-43a6eb1 {
+        --icon-box-icon-margin: 20px;
+    }
+    .elementor-14 .elementor-element.elementor-element-43a6eb1 .elementor-icon-box-description {
+        font-size: 14px;
+    }
+    .elementor-14 .elementor-element.elementor-element-c54aefd img {
+        width: 57%;
+    }
+    body:not(.rtl) .elementor-14 .elementor-element.elementor-element-c54aefd {
+        left: -8px;
+    }
+    body.rtl .elementor-14 .elementor-element.elementor-element-c54aefd {
+        right: -8px;
+    }
+    .elementor-14 .elementor-element.elementor-element-c54aefd {
+        top: 373px;
+    }
+    .elementor-14 .elementor-element.elementor-element-85a7764 {
+        padding: 100px 0px 0px 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-70014f0>.elementor-element-populated {
+        margin: -50px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-8538c07 .elementor-heading-title {
+        font-size: 40px;
+        line-height: 1.2em;
+    }
+    .elementor-14 .elementor-element.elementor-element-b529268 {
+        font-size: 14px;
+    }
+    .elementor-14 .elementor-element.elementor-element-12d4257 {
+        padding: 0px 0px 0px 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-66614ee .elementor-heading-title {
+        font-size: 40px;
+        line-height: 1.2em;
+    }
+    .elementor-14 .elementor-element.elementor-element-64330f3 {
+        font-size: 14px;
+    }
+    .elementor-14 .elementor-element.elementor-element-147d5b2>.elementor-element-populated {
+        padding: 35px 0px 0px 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-ce2f681 {
+        padding: 60px 0px 60px 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-ec6994d>.elementor-element-populated {
+        padding: 35px 0px 0px 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-eb86161>.elementor-element-populated {
+        margin: -50px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-57225ae .elementor-heading-title {
+        font-size: 40px;
+        line-height: 1.2em;
+    }
+    .elementor-14 .elementor-element.elementor-element-e9d66aa {
+        font-size: 14px;
+    }
+    .elementor-14 .elementor-element.elementor-element-fcf5bb2 {
+        padding: 0px 0px 0px 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-cefd3c5 .elementor-heading-title {
+        font-size: 40px;
+        line-height: 1.2em;
+    }
+    .elementor-14 .elementor-element.elementor-element-4f0d133 {
+        font-size: 14px;
+    }
+    .elementor-14 .elementor-element.elementor-element-620a9fc>.elementor-element-populated {
+        padding: 35px 0px 0px 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-edb5346 {
+        padding: 0px 0px 0px 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-4d63188>.elementor-element-populated {
+        padding: 35px 0px 0px 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-15cccf2>.elementor-element-populated {
+        margin: -50px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-e3829c3 .elementor-heading-title {
+        font-size: 40px;
+        line-height: 1.2em;
+    }
+    .elementor-14 .elementor-element.elementor-element-11ec5bc {
+        font-size: 14px;
+    }
+    .elementor-14 .elementor-element.elementor-element-ee296b4 .elementor-icon-box-wrapper {
+        text-align: left;
+    }
+    .elementor-14 .elementor-element.elementor-element-ee296b4 {
+        --icon-box-icon-margin: 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-ee296b4 .elementor-icon {
+        font-size: 49px;
+    }
+    .elementor-14 .elementor-element.elementor-element-ee296b4 .elementor-icon-box-title {
+        margin-bottom: 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-ee296b4 .elementor-icon-box-title,
+    .elementor-14 .elementor-element.elementor-element-ee296b4 .elementor-icon-box-title a {
+        font-size: 48px;
+    }
+    .elementor-14 .elementor-element.elementor-element-cb36f08>.elementor-element-populated {
+        margin: 10px 10px 10px 10px;
+        --e-column-margin-right: 10px;
+        --e-column-margin-left: 10px;
+        padding: 25px 15px 25px 15px;
+    }
+    .elementor-14 .elementor-element.elementor-element-0e3b773 .elementor-icon-box-title,
+    .elementor-14 .elementor-element.elementor-element-0e3b773 .elementor-icon-box-title a {
+        font-size: 25px;
+    }
+    .elementor-14 .elementor-element.elementor-element-0e3b773 .elementor-icon-box-description {
+        font-size: 14px;
+    }
+    .elementor-14 .elementor-element.elementor-element-28d4faa>.elementor-element-populated {
+        margin: 20px 10px 20px 10px;
+        --e-column-margin-right: 10px;
+        --e-column-margin-left: 10px;
+        padding: 25px 15px 25px 15px;
+    }
+    .elementor-14 .elementor-element.elementor-element-f73c478 .elementor-icon-box-title,
+    .elementor-14 .elementor-element.elementor-element-f73c478 .elementor-icon-box-title a {
+        font-size: 25px;
+    }
+    .elementor-14 .elementor-element.elementor-element-f73c478 .elementor-icon-box-description {
+        font-size: 14px;
+    }
+    .elementor-14 .elementor-element.elementor-element-b5d81cf {
+        --spacer-size: 10px;
+    }
+    .elementor-14 .elementor-element.elementor-element-92a89ae>.elementor-element-populated {
+        margin: 10px 10px 10px 10px;
+        --e-column-margin-right: 10px;
+        --e-column-margin-left: 10px;
+        padding: 25px 15px 25px 15px;
+    }
+    .elementor-14 .elementor-element.elementor-element-14fbefb .elementor-icon-box-title,
+    .elementor-14 .elementor-element.elementor-element-14fbefb .elementor-icon-box-title a {
+        font-size: 25px;
+    }
+    .elementor-14 .elementor-element.elementor-element-14fbefb .elementor-icon-box-description {
+        font-size: 14px;
+    }
+    .elementor-14 .elementor-element.elementor-element-83bb985 {
+        --spacer-size: 10px;
+    }
+    .elementor-14 .elementor-element.elementor-element-a9693fb .elementor-icon-box-wrapper {
+        text-align: left;
+    }
+    .elementor-14 .elementor-element.elementor-element-a9693fb {
+        --icon-box-icon-margin: 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-a9693fb .elementor-icon {
+        font-size: 49px;
+    }
+    .elementor-14 .elementor-element.elementor-element-a9693fb .elementor-icon-box-title {
+        margin-bottom: 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-a9693fb .elementor-icon-box-title,
+    .elementor-14 .elementor-element.elementor-element-a9693fb .elementor-icon-box-title a {
+        font-size: 40px;
+    }
+    .elementor-14 .elementor-element.elementor-element-6a8be1b {
+        width: 50%;
+    }
+    .elementor-14 .elementor-element.elementor-element-c2f94c3 {
+        width: 50%;
+    }
+    .elementor-14 .elementor-element.elementor-element-639e284 {
+        width: 50%;
+    }
+    .elementor-14 .elementor-element.elementor-element-58c5ccc {
+        width: 50%;
+    }
+    .elementor-14 .elementor-element.elementor-element-977a756 {
+        width: 30%;
+    }
+    .elementor-14 .elementor-element.elementor-element-5618a78 {
+        width: 70%;
+    }
+    .elementor-14 .elementor-element.elementor-element-5961370>.elementor-element-populated {
+        margin: 10px 10px 10px 10px;
+        --e-column-margin-right: 10px;
+        --e-column-margin-left: 10px;
+        padding: 5px 5px 5px 5px;
+    }
+    .elementor-14 .elementor-element.elementor-element-e19078a {
+        width: 100%;
+    }
+    .elementor-14 .elementor-element.elementor-element-23aca45 {
+        text-align: center;
+    }
+    .elementor-14 .elementor-element.elementor-element-ec1b6d6 .elementor-icon-box-wrapper {
+        text-align: center;
+    }
+    .elementor-14 .elementor-element.elementor-element-ec1b6d6 .elementor-icon-box-title,
+    .elementor-14 .elementor-element.elementor-element-ec1b6d6 .elementor-icon-box-title a {
+        font-size: 11px;
+    }
+    .elementor-14 .elementor-element.elementor-element-8a1ab99 {
+        width: 50%;
+    }
+    .elementor-14 .elementor-element.elementor-element-bb611ca {
+        width: 50%;
+    }
+    .elementor-14 .elementor-element.elementor-element-8eac92d {
+        width: 50%;
+    }
+    .elementor-14 .elementor-element.elementor-element-775075b {
+        width: 50%;
+    }
+    .elementor-14 .elementor-element.elementor-element-46b7fe2 {
+        width: 50%;
+    }
+    .elementor-14 .elementor-element.elementor-element-ad85574 {
+        width: 50%;
+    }
+    .elementor-14 .elementor-element.elementor-element-1281083 {
+        width: 30%;
+    }
+    .elementor-14 .elementor-element.elementor-element-8e59f9a {
+        width: 70%;
+    }
+    .elementor-14 .elementor-element.elementor-element-5f67dba>.elementor-element-populated {
+        margin: 10px 10px 10px 10px;
+        --e-column-margin-right: 10px;
+        --e-column-margin-left: 10px;
+        padding: 5px 5px 5px 5px;
+    }
+    .elementor-14 .elementor-element.elementor-element-57abe3e {
+        width: 100%;
+    }
+    .elementor-14 .elementor-element.elementor-element-98b9ca6 {
+        text-align: center;
+    }
+    .elementor-14 .elementor-element.elementor-element-3e24564 {
+        padding: 100px 0px 100px 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-aba5a43>.elementor-element-populated {
+        margin: 0px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-76b425c .elementor-heading-title {
+        font-size: 32px;
+        line-height: 1.2em;
+    }
+    .elementor-14 .elementor-element.elementor-element-328efb1 .elementor-widget-container {
+        text-align: left;
+    }
+    .elementor-14 .elementor-element.elementor-element-328efb1 {
+        --icon-size: 40px;
+        --grid-column-gap: 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-328efb1 .elementor-social-icon {
+        --icon-padding: 0.5em;
+    }
+    .elementor-14 .elementor-element.elementor-element-f62db04 .elementor-icon-box-title,
+    .elementor-14 .elementor-element.elementor-element-f62db04 .elementor-icon-box-title a {
+        font-size: 35px;
+    }
+    .elementor-14 .elementor-element.elementor-element-1d3c66f .elementor-icon {
+        font-size: 100px;
+    }
+    .elementor-14 .elementor-element.elementor-element-1d3c66f .elementor-icon-box-description {
+        font-size: 14px;
+    }
+    .elementor-14 .elementor-element.elementor-element-f129ac9 {
+        --spacer-size: 10px;
+    }
+    .elementor-14 .elementor-element.elementor-element-92e6f65 .elementor-icon {
+        font-size: 100px;
+    }
+    .elementor-14 .elementor-element.elementor-element-92e6f65 .elementor-icon-box-description {
+        font-size: 14px;
+    }
+    .elementor-14 .elementor-element.elementor-element-86e80fb {
+        --spacer-size: 10px;
+    }
+    .elementor-14 .elementor-element.elementor-element-402c946 .elementor-icon {
+        font-size: 100px;
+    }
+    .elementor-14 .elementor-element.elementor-element-402c946 .elementor-icon-box-description {
+        font-size: 14px;
+    }
+    .elementor-14 .elementor-element.elementor-element-402c946>.elementor-widget-container {
+        padding: 0px 0px 15px 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-626d250 .elementor-icon {
+        font-size: 100px;
+    }
+    .elementor-14 .elementor-element.elementor-element-626d250 .elementor-icon-box-description {
+        font-size: 14px;
+    }
+    .elementor-14 .elementor-element.elementor-element-082035d {
+        padding: 0px 0px 100px 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-629066a .elementor-icon-box-wrapper {
+        text-align: left;
+    }
+    .elementor-14 .elementor-element.elementor-element-629066a {
+        --icon-box-icon-margin: 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-629066a .elementor-icon {
+        font-size: 49px;
+    }
+    .elementor-14 .elementor-element.elementor-element-629066a .elementor-icon-box-title {
+        margin-bottom: 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-629066a .elementor-icon-box-title,
+    .elementor-14 .elementor-element.elementor-element-629066a .elementor-icon-box-title a {
+        font-size: 47px;
+    }
+    .elementor-14 .elementor-element.elementor-element-629066a>.elementor-widget-container {
+        padding: 0px 115px 0px 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-81579dd .elementskit-accordion .elementskit-card-header>.elementskit-btn-link {
+        font-size: 25px;
+    }
+    .elementor-14 .elementor-element.elementor-element-3d465c5 {
+        padding: 0px 0px 0px 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-40c9962>.elementor-element-populated {
+        padding: 30px 30px 30px 30px;
+    }
+    .elementor-14 .elementor-element.elementor-element-a50c974 {
+        text-align: center;
+    }
+    .elementor-14 .elementor-element.elementor-element-a50c974 img {
+        width: 59%;
+    }
+    .elementor-14 .elementor-element.elementor-element-9931095>.elementor-element-populated {
+        padding: 50px 0px 0px 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-e3b2d81>.elementor-element-populated {
+        padding: 50px 0px 0px 0px;
+    }
+    .elementor-14 .elementor-element.elementor-element-9c295fc {
+        text-align: left;
+    }
+}
+
+@media(min-width:768px) {
+    .elementor-14 .elementor-element.elementor-element-bfed1cf {
+        width: 25.971%;
+    }
+    .elementor-14 .elementor-element.elementor-element-e5d398c {
+        width: 55.827%;
+    }
+    .elementor-14 .elementor-element.elementor-element-8cb7c47 {
+        width: 17.734%;
+    }
+    .elementor-14 .elementor-element.elementor-element-facf964 {
+        width: 42.984%;
+    }
+    .elementor-14 .elementor-element.elementor-element-0181e74 {
+        width: 57.016%;
+    }
+    .elementor-14 .elementor-element.elementor-element-9cb16eb {
+        width: 57.016%;
+    }
+    .elementor-14 .elementor-element.elementor-element-03e7339 {
+        width: 42.984%;
+    }
+    .elementor-14 .elementor-element.elementor-element-4031e43 {
+        width: 43.993%;
+    }
+    .elementor-14 .elementor-element.elementor-element-68ae464 {
+        width: 56.007%;
+    }
+    .elementor-14 .elementor-element.elementor-element-438d757 {
+        width: 53.429%;
+    }
+    .elementor-14 .elementor-element.elementor-element-f4457a3 {
+        width: 46.571%;
+    }
+    .elementor-14 .elementor-element.elementor-element-e19078a {
+        width: 30.323%;
+    }
+    .elementor-14 .elementor-element.elementor-element-84e0de8 {
+        width: 69.677%;
+    }
+    .elementor-14 .elementor-element.elementor-element-57abe3e {
+        width: 30.323%;
+    }
+    .elementor-14 .elementor-element.elementor-element-a9ba2ac {
+        width: 69.677%;
+    }
+    .elementor-14 .elementor-element.elementor-element-6ebe55f {
+        width: 43.92%;
+    }
+    .elementor-14 .elementor-element.elementor-element-aba5a43 {
+        width: 56.08%;
+    }
+    .elementor-14 .elementor-element.elementor-element-7122688 {
+        width: 73.353%;
+    }
+    .elementor-14 .elementor-element.elementor-element-99e6643 {
+        width: 26.647%;
+    }
+    .elementor-14 .elementor-element.elementor-element-f1a3ecd {
+        width: 26.737%;
+    }
+    .elementor-14 .elementor-element.elementor-element-4c23c3b {
+        width: 73.263%;
+    }
+}
